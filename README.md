@@ -11,3 +11,4 @@ A vulnerable Nodejs API, for testing purposes
 4. create .env file
 5. copy .env.example and add youe .env values
 4. Start the app: `node index`.
+
